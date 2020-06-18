@@ -1,0 +1,13 @@
+jim	0000	Bank Administrator
+suhaib	shoaib	Bank Administrator
+a	b	Bank Manager
+suhaib	shoaib	Bank Manager
+hello	please	Bank Manager
+fggdsf	fsdg	Bank Manager
+vs	gfds	Bank Administrator
+hudfa	dags	Bank Administrator
+jldsf	dasf	Bank Administrator
+czx	zcv	Bank Administrator
+v xzc	czvx	Bank Administrator
+dadf	fgsfds	Bank Administrator
+asvfg	fsg	Bank Administrator

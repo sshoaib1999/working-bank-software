@@ -1,0 +1,12 @@
+1,1,Current Account,12-34-56,12345678,10550.0,Barclays,1.2,10/05/2019
+12,12,Current Account,12-34-56,87654321,0.0,Barclays,1.2,02/12/2019
+1,1,Current Account,00-11-22,123,0.0,Halifax,1.2,02/12/2019
+1,1,ISA Account,11-22-33,1234,800.0,HSBC,1.2,03/12/2019
+1,1,Saving Account,33-44-55,1122,0.0,HSBC,1.2,03/12/2019
+1,1,Current Account,00-00-00,0,100.0,0000,1.2,30/11/0002
+syed,shoaib,Current Account,11-22-33,123456,3800.0,barclays,1.2,03/01/2020
+syed,shoaib,Current Account,11-22-33,123456,3800.0,barclays,1.2,03/01/2020
+syed,shoaib,Saving Account,11-22-33,123456,3800.0,barclays,1.2,03/01/2020
+syed,shoaib,Current Account,1,1,0.0,Barclays,1.2,04/01/2020
+syed,shoaib,Current Account,2,2,0.0,Barclays,1.2,04/01/2020
+syed,shoaib,Current Account,1,1,0.0,Barclays,1.2,04/01/2020
